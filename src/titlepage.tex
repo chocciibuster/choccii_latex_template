@@ -1,0 +1,103 @@
+\documentclass[11pt, a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage{xcolor}
+
+\usepackage[ngerman]{babel}
+\usepackage{datetime}
+
+\usepackage{titling}
+
+\usepackage[a4paper,
+            left=1.5in,
+            right=1.5in,
+            top=0\paperheight,
+            bottom=0in]
+            {geometry}
+% -----------------------------------------------------------------------------
+\definecolor{hsblue}{HTML}{00b1db} %0cb5df
+
+% -----------------------------------------------------------------------------
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+% Defines a new command for the horizontal lines, change thickness here
+
+\title{Example}
+\author{Josefine Richey}
+\date{\today}
+\def \aplmodul {Statistik}
+\def \aplsemester {4. Fachsemester}
+\def \apldoctype {Alternative Prüfungsleistung}
+\def \bachmast {Bachelor}
+\def \aplbetreuerpri {Prof. Dr. rer. pol. Gerhard Müller}
+\def \aplbetreuersec {Frau Monika Augustyniak}
+
+
+\begin{document}
+
+\begin{titlepage}
+
+\center % Center everything on the page
+
+%----------------------------------------------------------------------------
+%    HEADING SECTIONS
+%----------------------------------------------------------------------------
+
+%\textsc{\LARGE Hochschule Wismar}\[1.5cm]
+\noindent\begin{minipage}[t][0.3819660112501052\paperheight][t]{\textwidth}
+\centering
+\vspace{0.1458980337503154\paperheight}
+\includegraphics[scale=0.382]{graphics/logo.jpg}
+\end{minipage}
+
+%\begin{tabular}{C}
+%\end{tabular}\
+%\begin{minipage}[c]{.618\columnwidth}
+%\includegraphics[scale=0.14591]{logo.jpg}\
+%end{minipage}\
+%\vspace{0.14591\columnwidth}
+\textsc{\Large \aplmodul}
+\vspace{0.5cm}
+%----------------------------------------------------------------------------
+%    TITLE SECTION
+%----------------------------------------------------------------------------
+
+%\rule[0.618cm]{0.618\columnwidth}{1pt}\
+{ \huge \bfseries \thetitle}\\ % Title of your document
+\vspace{0.034441853748633004\paperheight}
+\large\apldoctype\
+\vspace{0.1458980337503154\paperheight}
+
+%----------------------------------------------------------------------------
+%    AUTHOR SECTION
+%----------------------------------------------------------------------------
+
+%\begin{flushleft} \large
+  \begin{tabular}{rl}
+    Autor: & Josefine \textsc{Richey}\\
+    Matrikelnummer: & 362984\\
+    Korrespondenz: & j.richey@stud.hs-wismar.de\\
+    Studiengang: & \bachmast\space Betriebswirtschaft, \aplsemester\\
+    Betreuer: & \aplbetreuerpri,\\
+     & \aplbetreuersec\\
+
+
+   \end{tabular} %
+   \vspace{0.05572809000084118\paperheight}
+
+{\large {Wismar, \the\day.\the\month.\the\year}}\
+%\end{flushleft}
+
+
+% If you don't want a supervisor, uncomment the two lines below and remove the section above
+%\Large \emph{Author:}\
+%John \textsc{Smith}\[3cm] % Your name
+
+
+\vfill % Fill the rest of the page with whitespace
+
+\end{titlepage}
+\end{document}
