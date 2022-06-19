@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.14)  16 JUN 2022 20:05
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.14)  19 JUN 2022 11:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -447,16 +447,73 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Cskip=\skip54
 )
 \c@@todonotes@numberoftodonotes=\count294
-) (c:/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+) (c:/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen258
+\ar@mcellbox=\box66
+\extrarowheight=\dimen259
+\NC@list=\toks40
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box67
+)
+(c:/texlive/2022/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen260
+\TX@old@table=\dimen261
+\TX@old@col=\dimen262
+\TX@target=\dimen263
+\TX@delta=\dimen264
+\TX@cols=\count295
+\TX@ftn=\toks41
+)
+(c:/texlive/2022/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2021/12/15 v3.1 ragged2e Package
+\CenteringLeftskip=\skip57
+\RaggedLeftLeftskip=\skip58
+\RaggedRightLeftskip=\skip59
+\CenteringRightskip=\skip60
+\RaggedLeftRightskip=\skip61
+\RaggedRightRightskip=\skip62
+\CenteringParfillskip=\skip63
+\RaggedLeftParfillskip=\skip64
+\RaggedRightParfillskip=\skip65
+\JustifyingParfillskip=\skip66
+\CenteringParindent=\skip67
+\RaggedLeftParindent=\skip68
+\RaggedRightParindent=\skip69
+\JustifyingParindent=\skip70
+)
+(c:/texlive/2022/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen265
+\lightrulewidth=\dimen266
+\cmidrulewidth=\dimen267
+\belowrulesep=\dimen268
+\belowbottomsep=\dimen269
+\aboverulesep=\dimen270
+\abovetopsep=\dimen271
+\cmidrulesep=\dimen272
+\cmidrulekern=\dimen273
+\defaultaddspace=\dimen274
+\@cmidla=\count296
+\@cmidlb=\count297
+\@aboverulesep=\dimen275
+\@belowrulesep=\dimen276
+\@thisruleclass=\count298
+\@lastruleclass=\count299
+\@thisrulewidth=\dimen277
+)
+(c:/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2022/06/06 3.76 The Babel package
-\babel@savecnt=\count295
-\U@D=\dimen258
+\babel@savecnt=\count300
+\U@D=\dimen278
 \l@unhyphenated=\language87
 
 (c:/texlive/2022/texmf-dist/tex/generic/babel/xebabel.def
 (c:/texlive/2022/texmf-dist/tex/generic/babel/txtbabel.def))
 \bbl@readstream=\read3
-\bbl@dirlevel=\count296
+\bbl@dirlevel=\count301
 
 (c:/texlive/2022/texmf-dist/tex/generic/babel-german/ngerman.ldf
 Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthogra
@@ -477,7 +534,7 @@ Package: datetime 2015/03/20 v2.60 Date Time Package
 
 (c:/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count297
+\etb@tempcnta=\count302
 )
 (c:/texlive/2022/texmf-dist/tex/latex/fmtcount/fmtcount.sty
 Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
@@ -493,10 +550,10 @@ Package: fcprefix 2012/09/28
 Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
 Package: fcnumparser 2017/06/15
-\fc@digit@counter=\count298
+\fc@digit@counter=\count303
 ))
-\c@padzeroesN=\count299
-\fc@tmpcatcode=\count300
+\c@padzeroesN=\count304
+\fc@tmpcatcode=\count305
 
 (c:/texlive/2022/texmf-dist/tex/latex/fmtcount/fc-ngerman.def
 Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
@@ -518,81 +575,202 @@ Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
 File: fc-ngermanb.def 2013/08/17
 ))
-\@DT@modctr=\count301
-\@ordinalctr=\count302
-\@orgargctr=\count303
-\@strctr=\count304
-\@tmpstrctr=\count305
-\@DT@loopN=\count306
-\@DT@X=\count307
+\@DT@modctr=\count306
+\@ordinalctr=\count307
+\@orgargctr=\count308
+\@strctr=\count309
+\@tmpstrctr=\count310
+\@DT@loopN=\count311
+\@DT@X=\count312
 )
 (c:/texlive/2022/texmf-dist/tex/latex/datetime/datetime-defaults.sty
 Package: datetime-defaults 2013/09/10
 )
-\@day=\count308
-\@month=\count309
-\@year=\count310
-\c@HOUR=\count311
-\c@HOURXII=\count312
-\c@MINUTE=\count313
-\c@TOHOUR=\count314
-\c@TOMINUTE=\count315
-\c@SECOND=\count316
-\currenthour=\count317
-\currentminute=\count318
-\currentsecond=\count319
+\@day=\count313
+\@month=\count314
+\@year=\count315
+\c@HOUR=\count316
+\c@HOURXII=\count317
+\c@MINUTE=\count318
+\c@TOHOUR=\count319
+\c@TOMINUTE=\count320
+\c@SECOND=\count321
+\currenthour=\count322
+\currentminute=\count323
+\currentsecond=\count324
 Package datetime Info: No datetime.cfg file found, using default settings on in
 put line 308.
-\@dtctr=\count320
-\dayofyear=\count321
-\dayofweek=\count322
+\@dtctr=\count325
+\dayofyear=\count326
+\dayofweek=\count327
 LaTeX Info: Redefining \today on input line 736.
 
 (c:/texlive/2022/texmf-dist/tex/latex/datetime/dt-ngerman.def
 File: dt-ngerman.def 2013/09/10
 LaTeX Info: Redefining \datengerman on input line 86.
 )
-\dt@a=\toks40
-\dt@b=\toks41
+\dt@a=\toks42
+\dt@b=\toks43
+)
+(c:/texlive/2022/texmf-dist/tex/latex/was/upgreek.sty
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
 )
 (c:/texlive/2022/texmf-dist/tex/latex/titling/titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
-\thanksmarkwidth=\skip55
-\thanksmargin=\skip56
-\droptitle=\skip57
+\thanksmarkwidth=\skip71
+\thanksmargin=\skip72
+\droptitle=\skip73
 )
 (c:/texlive/2022/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2022/05/22 v0.5v Insert pages of external PDF documents (AM)
 
 (c:/texlive/2022/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
-\ESO@tempdima=\dimen259
-\ESO@tempdimb=\dimen260
+\ESO@tempdima=\dimen279
+\ESO@tempdimb=\dimen280
 )
-\AM@pagewidth=\dimen261
-\AM@pageheight=\dimen262
-\AM@fboxrule=\dimen263
+\AM@pagewidth=\dimen281
+\AM@pageheight=\dimen282
+\AM@fboxrule=\dimen283
 
 (c:/texlive/2022/texmf-dist/tex/latex/pdfpages/ppxetex.def
 File: ppxetex.def 2022/05/22 v0.5v Pdfpages driver for XeTeX (AM)
 )
-\pdfpages@includegraphics@status=\count323
-\AM@pagebox=\box66
-\AM@global@opts=\toks42
-\AM@pagecnt=\count324
-\AM@toc@title=\toks43
-\c@AM@survey=\count325
-\AM@templatesizebox=\box67
+\pdfpages@includegraphics@status=\count328
+\AM@pagebox=\box68
+\AM@global@opts=\toks44
+\AM@pagecnt=\count329
+\AM@toc@title=\toks45
+\c@AM@survey=\count330
+\AM@templatesizebox=\box69
+)
+(c:/texlive/2022/texmf-dist/tex/latex/was/icomma.sty
+Package: icomma 2002/03/10 v2.0 (WaS)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2022-06-07 v3.1.3 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen284
+\l__siunitx_angle_marker_box=\box70
+\l__siunitx_angle_unit_box=\box71
+\l__siunitx_compound_count_int=\count331
+
+(c:/texlive/2022/texmf-dist/tex/latex/translations/translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+
+(c:/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(c:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
 ))
+\l__siunitx_number_exponent_fixed_int=\count332
+\l__siunitx_number_min_decimal_int=\count333
+\l__siunitx_number_min_integer_int=\count334
+\l__siunitx_number_round_precision_int=\count335
+\l__siunitx_number_group_first_int=\count336
+\l__siunitx_number_group_size_int=\count337
+\l__siunitx_number_group_minimum_int=\count338
+\l__siunitx_table_tmp_box=\box72
+\l__siunitx_table_tmp_dim=\dimen285
+\l__siunitx_table_column_width_dim=\dimen286
+\l__siunitx_table_integer_box=\box73
+\l__siunitx_table_decimal_box=\box74
+\l__siunitx_table_before_box=\box75
+\l__siunitx_table_after_box=\box76
+\l__siunitx_table_before_dim=\dimen287
+\l__siunitx_table_carry_dim=\dimen288
+\l__siunitx_unit_tmp_int=\count339
+\l__siunitx_unit_position_int=\count340
+\l__siunitx_unit_total_int=\count341
+)
+(c:/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.sty
+(c:/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(c:/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-06-02 L3 programming layer (loader) 
+
 (c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2022-04-20 L3 backend support: XeTeX
-\g__graphics_track_int=\count326
-\l__pdf_internal_box=\box68
-\g__pdf_backend_object_int=\count327
-\g__pdf_backend_annotation_int=\count328
-\g__pdf_backend_link_int=\count329
+\g__graphics_track_int=\count342
+\l__pdf_internal_box=\box77
+\g__pdf_backend_object_int=\count343
+\g__pdf_backend_annotation_int=\count344
+\g__pdf_backend_link_int=\count345
+))
+Package: xparse 2022-06-07 L3 Experimental document command parser
 )
-(./template.aux)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+(c:/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count346
+\l__fontspec_language_int=\count347
+\l__fontspec_strnum_int=\count348
+\l__fontspec_tmp_int=\count349
+\l__fontspec_tmpa_int=\count350
+\l__fontspec_tmpb_int=\count351
+\l__fontspec_tmpc_int=\count352
+\l__fontspec_em_int=\count353
+\l__fontspec_emdef_int=\count354
+\l__fontspec_strong_int=\count355
+\l__fontspec_strongdef_int=\count356
+\l__fontspec_tmpa_dim=\dimen289
+\l__fontspec_tmpb_dim=\dimen290
+\l__fontspec_tmpc_dim=\dimen291
+
+(c:/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(c:/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+
+Package fontspec Info: Font family 'Calibri(0)' created for font 'Calibri'
+(fontspec)             with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Calibri/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"Calibri/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Calibri/B/OT:script=latn;language=dflt;mapping=tex-t
+ext;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"Calibri/B/OT:script=latn;language=dflt;+smcp;mapping
+=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Calibri/I/OT:script=latn;language=dflt;mapping=tex-t
+ext;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Calibri/I/OT:script=latn;language=dflt;+smcp;mapping
+=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Calibri/BI/OT:script=latn;language=dflt;mapping=tex-
+text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Calibri/BI/OT:script=latn;language=dflt;+smcp;mappin
+g=tex-text;"
+
+) (./template.aux)
 \openout1 = `template.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -626,9 +804,6 @@ loading the todonotes package. on input line 6.
 (c:/texlive/2022/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 
-(c:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
-)
 (c:/texlive/2022/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
@@ -639,6 +814,71 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 ))
+(c:/texlive/2022/texmf-dist/tex/latex/translations/translations-basic-dictionar
+y-german.trsl
+File: translations-basic-dictionary-german.trsl (german translation file `trans
+lations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `german'. on input line 6.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 6.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 6.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 6.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 6.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 6.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 6.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 6.
+LaTeX Font Info:    Redeclaring math accent \check on input line 6.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 6.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 6.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 6.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 6.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 6.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/Calibri(0)/m/n on input line 6.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 6.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/Calibri(0)/m/n on input line 6.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/Calibri(0)/m/n --> TU/Calibri(0)/m/n on input line 6
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/Calibri(0)/m/it on input line 6.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/Calibri(0)/b/n on input line 6.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 6.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 6.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/Calibri(0)/m/n --> TU/Calibri(0)/b/n on input line 6
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/Calibri(0)/b/it on input line 6.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 6.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 6.
 File: titlepage.pdf Graphic file (type pdf)
 <use titlepage.pdf>
 File: titlepage.pdf Graphic file (type pdf)
@@ -655,15 +895,139 @@ File: titlepage.pdf Graphic file (type pdf)
 <use titlepage.pdf, page 1>
  [1
 
-]
-(./chapters/einleitung.tex) [2] (./template.aux) ) 
-Here is how much of TeX's memory you used:
- 15996 strings out of 475885
- 321074 string characters out of 5806093
- 627619 words of memory out of 5000000
- 36731 multiletter control sequences out of 15000+600000
- 469267 words of font info for 29 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 104i,17n,97p,1041b,506s stack positions out of 10000i,1000n,20000p,200000b,200000s
+] (./chapters/univariateanalyse.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
-Output written on template.pdf (2 pages).
+ []
+
+[2]
+File: graphics/histogramm_benz_uni.png Graphic file (type bmp)
+<graphics/histogramm_benz_uni.png>
+File: graphics/verteilungsfunktion.png Graphic file (type bmp)
+<graphics/verteilungsfunktion.png>
+ [3]
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--125
+
+ []
+
+[5]
+File: graphics/histogram_mit_boxplot.png Graphic file (type bmp)
+<graphics/histogram_mit_boxplot.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--137
+
+ []
+
+
+Overfull \hbox (0.60788pt too wide) in paragraph at lines 138--139
+[]\TU/Calibri(0)/m/n/10.95 Die Verteilung und damit einhergehende Abweichung de
+r Werte lässt sich noch
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+
+ []
+
+[6]
+Overfull \hbox (1.18353pt too wide) in paragraph at lines 159--160
+[]\TU/Calibri(0)/m/n/10.95 Prozentual gesehen unterliegen die Benzinpreise dami
+t einer schwachen Streu-
+ []
+
+) [7] (./chapters/bivariateanalyse.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+
+ []
+
+File: graphics/streubipbenz.png Graphic file (type bmp)
+<graphics/streubipbenz.png>
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+[10]
+File: graphics/streueurusdbenz.png Graphic file (type bmp)
+<graphics/streueurusdbenz.png>
+ [11]
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+Overfull \hbox (4.59375pt too wide) in paragraph at lines 96--97
+\TU/Calibri(0)/m/n/10.95 positiven linearen Zusammenhang zwischen den Merkmalen
+ X (EURUSD) und Merk-
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 113--115
+
+ []
+
+File: graphics/streurohbenz.png Graphic file (type bmp)
+<graphics/streurohbenz.png>
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 153--155
+
+ []
+
+File: graphics/streustimbenz.png Graphic file (type bmp)
+<graphics/streustimbenz.png>
+[15] [16] [17] [18] [19]
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+
+ []
+
+) [20] (./template.aux) ) 
+Here is how much of TeX's memory you used:
+ 22792 strings out of 475885
+ 533790 string characters out of 5806093
+ 863216 words of memory out of 5000000
+ 43400 multiletter control sequences out of 15000+600000
+ 477888 words of font info for 86 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 104i,17n,97p,1061b,614s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on template.pdf (20 pages).

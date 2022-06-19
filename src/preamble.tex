@@ -4,15 +4,44 @@
 \usepackage{float}
 \usepackage[colorinlistoftodos]{todonotes}
 \usepackage{xcolor}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{ragged2e}
+\usepackage{booktabs}
+\usepackage{float}
 
 \usepackage[ngerman]{babel}
 \usepackage{datetime}
+\usepackage{upgreek}
 
 \usepackage{titling}
 \usepackage{pdfpages}
+\usepackage{icomma}
+\usepackage{siunitx}
+
+\usepackage{fontspec}
+\setmainfont{Calibri}
 % -----------------------------------------------------------------------------
 \definecolor{hsblue}{HTML}{00b1db} %0cb5df
 
 % -----------------------------------------------------------------------------
 \newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
 % Defines a new command for the horizontal lines, change thickness here
+\renewcommand{\arraystretch}{1.4}
+
+\newcommand{\centperliter}[1]{#1 ct $\cdot$ l\textsuperscript{-1}}
+
+\newcommand{\exceltvert}[2]{\text{T.VERT}(#1; #2; \text{wahr})}
+\newcommand{\excelqvert}[2]{\text{CHIQU.VERT}(#1; #2; \text{wahr})}
+% -----------------------------------------------------------------------------
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+% -----------------------------------------------------------------------------
+\DeclareSIUnit{\ct}{ct}
+\DeclareSIUnit{\liter}{l}
+\DeclareSIUnit{\mrdEuro}{Mrd€}
+\DeclareSIUnit{\euro}{€}
+\DeclareSIUnit{\usd}{USD}
+\DeclareSIUnit{\bbl}{bbl}
+\sisetup{inter-unit-product=\mathord{\cdot}}
